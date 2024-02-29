@@ -30,6 +30,8 @@ public class Exercicio3 {
         System.out.println("Numero decrementado: " + decremento);
         
         entrada.close();
+        
+        System.out.println("Código versionado hahaha");
     }
     
 }
