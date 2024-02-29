@@ -32,6 +32,7 @@ public class Exercicio3 {
         entrada.close();
         
         System.out.println("Código versionado hahaha");
+        System.out.println("Mais um commit hahahaha");
     }
     
 }
