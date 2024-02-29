@@ -42,6 +42,8 @@ public class Exercicio2 {
         }
         
         entrada.close();
+        
+        System.out.println("Alteração no código do exercício 2");
     }
     
 }
