@@ -30,11 +30,6 @@ public class Exercicio3 {
         System.out.println("Numero decrementado: " + decremento);
         
         entrada.close();
-        
-        System.out.println("Código versionado hahaha");
-        System.out.println("Mais um commit hahahaha");
-        System.out.println("Alteração no código do exercicio 3");
-        System.out.print("olá mundo");
     }
     
 }
