@@ -15,6 +15,5 @@ public class TesteData {
         Date hoje = new Date();
         System.out.println(hoje);
         
-    }
-    
+    }    
 }
